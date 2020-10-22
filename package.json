@@ -6,7 +6,7 @@
   "author": "Irisawa Masaru <mass10.github@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": ""
+    "test": "date"
   },
   "devDependencies": {
     "typescript": "^4.0.3"

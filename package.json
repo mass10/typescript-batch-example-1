@@ -1,0 +1,11 @@
+{
+  "name": "typescript-batch-example-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mass10/typescript-batch-example-1.git",
+  "author": "Irisawa Masaru <mass10.github@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}

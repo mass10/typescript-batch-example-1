@@ -25,8 +25,8 @@ jobs:
           - name: Setup npm packages
             run: . make.sh
 
-          - name: Run Tests
-            run: yarn test
+#         - name: Run Tests
+#           run: yarn test
 
           - name: Run Batch
             run: . run.sh

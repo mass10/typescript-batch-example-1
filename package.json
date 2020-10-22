@@ -5,6 +5,9 @@
   "repository": "git@github.com:mass10/typescript-batch-example-1.git",
   "author": "Irisawa Masaru <mass10.github@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": ""
+  },
   "devDependencies": {
     "typescript": "^4.0.3"
   }

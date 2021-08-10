@@ -21,6 +21,9 @@ jobs:
         steps:
           - name: Setup repo
             uses: actions/checkout@v2
+            
+          - name: Environment Variables
+            run: echo [${{ secrets.GITHUB_TOKEN }}]
 
           - name: Setup npm packages
             run: . make.sh
